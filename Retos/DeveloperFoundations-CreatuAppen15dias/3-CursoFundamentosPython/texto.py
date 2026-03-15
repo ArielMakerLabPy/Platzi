@@ -37,3 +37,7 @@ sinEspacios = espacios.strip()
 print(espacios)
 print(sinEspacios)
 
+textoMinuscula = texto.lower()
+busqueda = 'python' in textoMinuscula
+print(busqueda)
+

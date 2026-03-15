@@ -1,5 +1,3 @@
-from typing import TextIO
-
 
 print('Hola "Mundo"')
 

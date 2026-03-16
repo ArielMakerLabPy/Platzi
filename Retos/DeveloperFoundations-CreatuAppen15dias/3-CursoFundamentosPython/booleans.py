@@ -1,6 +1,3 @@
-from pathlib.types import PathInfo
-
-
 v = True
 f = False
 

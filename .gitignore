@@ -1,0 +1,22 @@
+# Archivos temporales de Python (Compilados)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (MUY importante no subirlos)
+venv/
+env/
+.env/
+bin/
+include/
+lib/
+share/
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Distribución / Paquetes
+dist/
+build/
+*.egg-info/

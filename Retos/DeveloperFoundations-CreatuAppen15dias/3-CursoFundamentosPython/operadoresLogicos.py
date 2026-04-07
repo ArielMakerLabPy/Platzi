@@ -1,7 +1,11 @@
 # Operadores de comparación
 
+from traceback import print_tb
+
+
 x = 5
 y = 3
+z = 5
 z = 5
 
 print("x es igual a y:", x == y) # False
